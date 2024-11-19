@@ -1,12 +1,13 @@
 ---
 title: "markdown-skill"
 date: 2024-11-8
+user: lmy
 ---
 
 
 # ok
 
-![图片语法](asset/ok.png)
+![图片语法](./asset/ok.png)
 
 ```java
 class a{
