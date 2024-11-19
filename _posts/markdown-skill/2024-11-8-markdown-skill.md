@@ -7,7 +7,7 @@ user: lmy
 
 # ok
 
-![图片语法](./asset/2024-11-8-ok.png)
+![图片语法](/_posts/markdown-skill/asset/2024-11-8-ok.png)
 
 ```java
 class a{
