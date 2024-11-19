@@ -6,7 +6,7 @@ date: 2024-11-8
 
 # ok
 
-![图片语法](asset/ok.png)
+![图片语法](./asset/ok.png)
 
 ```java
 class a{
